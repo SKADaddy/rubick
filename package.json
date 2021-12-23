@@ -58,5 +58,8 @@
     "worker-plugin": "^5.0.1",
     "electron-builder": "22.13.1"
   },
+  "engines": {
+    "node": ">= 14.0.0"
+  },
   "__npminstall_done": false
 }
